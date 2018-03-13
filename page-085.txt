@@ -1,0 +1,135 @@
+  
+ 
+ 
+  
+    
+   
+  
+  
+  
+    
+   
+   
+  
+   
+   
+  
+   
+    
+   
+   
+  
+   
+  
+  
+   
+ 
+   
+   
+ 
+  
+ 
+    
+  
+  
+   
+   
+   
+    
+    
+   
+   
+   
+
+156 Technology as Masculine Culture Technology as Masculine Culture l57
+
+' men and girls do have a facility with programming, the categories
+valuating their performance are themselves gender-biased. They
+esignated as getting the right-results by the wrong method. Only
+mastery is identified as the rational, logical approach. However
+'uneasymhen- Turkle argues that male ‘planners’ versus female
+kerers’ represent basic cognitive styles that are grounded in
+Sychological sex differences. Here she is inﬂuenced by the work of
+lynFox Keller (1983, 1985), Nancy Chodorow (1978) and perhaps
+estaby Carol Gilligan (1982). In different ways these authors all pose
+essential theory of sexual difference in cognitive skills.
+. ,it-he extent that this signals ‘the return to conventional ideas of
+damental and comprehensive cognitive, emotional and moral dif-
+nce between women and men’ (Segal, 1987, p. 146) I am uncon—
+ced. Firstly, on purely empirical grounds I am sceptical about the
+once, provided for the? existence of sex differences in cognitive
+,es. For example, Martin Hughes et al. (1988) found no such differ-
+ences. Previous research on sex differences with regard to mathe-
+tical ability has always stressed the lack of confidence and the
+,nformity of girls and the resulting tendency for them to follow the
+yes; diligently. This would lead one to suppose that girls would be
+hard masters in computing. Are we now to believe that in compu-
+gz boys follow the rulesandagirls are practising an alternative style?
+ore generally the search for ‘significant’ sex differences in this or
+at behaviour has a doubtful political:gpedigree and it is difficult to
+bid the conclusion that such reSearch finds what it has set out to
+d. Although studies do find evidence of differences between the
+xes, the variation within the sexes is more important than the
+:fferences between them.20 Secondly, and more fundamentally, it is
+creasingly clear that cognition cannot be stripped of its social con—
+tent to revealpure logical reasoning.
+Over the last ten years or so developmental psychology has recog—
+ntzed that the development of children cannot be understood outside
+the social context in which it occurs.21 Social relationships, under-
+andings and practices play a constitutive role in the elaboration of
+the child’s conceptual knowledge. To present differences in program-
+mingstyle as differences of individual psychology, as Turkle does, is
+to assume, an individualized account of learning (Linn, 1985, p. 95).
+Learning is a collective, social process. Turkle’s predominantly
+psychological rather than sociological framework leads her to neglect
+the historical. and cultural context in which computing education
+‘ takes place. The pattern of boys being more independent and strategy-
+oriented, and girls being more concrete and dependent, bears a
+
+competitive. Females are described as only interested in compute I
+tools for use and application, as ‘soft masters’, as more concrete
+cooperative in orientation.‘8 Thus it is argued that girls are ice
+to achieve, not simply as the result of biological differen
+because of essential psychological differences. These argument
+reminiscent of two views thatare by now somewhat discredit V
+is the old sexual stereotype about women being too exact
+irrational and illogical, not to mention lacking. the visuai-
+awareness, to be good at mathematics: the other is the l960san
+belief that workingclassand black children were naturally suit
+less abstract or more concrete forms of learning. The new
+fundamentally feminist twist in the argument, as we shall see;
+difference is no longer equated with inferiority or hierarc
+ordering. -
+By far the best exposition of this view, and one which isdraw
+widely by other authors, is to be found in the work of Sherry'T
+(1984, also Turkle and Papert, forthcorning).’9 From her ob
+tions of young children programming at school, Turkic found
+boys and girls tended to use two distinctive styles of computing,
+she calls ‘hard’ and ‘soft’ mastery. Hard masters are overwhelm
+boys, imposing their will over the machine by implementin
+structured, linear plan. The goal is to control the machine. Girls
+to be soft masters, having a' more ‘interactive’, ‘negotiatin
+‘relational’ style. They relate to the computer’s formal syste
+language for communication rather than as a set of rigid rules. Tu
+draws a parallel with Claude LévhStrauss’ distinction between
+ern science and the science of preliterate societies in terms- of
+contrast between planning and bricolage or tinkering. ‘The former
+the science of the abstract, the latter is a science of the concrete:
+the bricoleur, the soft master works with a set of concrete elemen
+While the hard master thinks in terms of global abstractions, the _.
+master works on a problem by arranging and rearranging the
+elements, working through new combinations.’ (Turkic, 1984, p. in
+Turkic is clear and emphatic that neither of these styles is superior
+programming - they are different, and diversity or ‘epistemologi'
+pluralism’ should be celebrated. The problem for womenthen is»E
+differential value accorded to the different styles. Computer expert“ ,
+is deﬁned as hard mastery; it is recognized as, the only correct w "
+to programme. Soft mastery is culturally constructed as inferior. on
+more women are not up to hard male mastery.
+Turkic is correct to point out that when gendered styles of co: _
+puting are identified by teachers, they are valued accordingly. When , ,_
+
+ 
+
+ 
+
