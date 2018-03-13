@@ -1,0 +1,23 @@
+#!/bin/bash
+
+set -o pipefail
+  # bail out immediately if any single command fails
+
+curl -D headers -vLOJ 'https://monoskop.org/images/3/38/Wajcman_Judy_Feminism_Confronts_Technology.pdf'
+  # should be 32,125,912 bytes (~32 megs)
+  # sha1sum 905954ec16245a02f2b82f87c4c3100181c6d744
+
+pdftohtml Wajcman_Judy_Feminism_Confronts_Technology.pdf
+  # this is not a particularly swift process, and it
+  # should balloon up to about 57 megs of sequentially
+  # named PNGs, plus some other fluff files we ignore
+
+for pg in {1..100} ; do
+	num=$(printf '%03d' "$pg")
+	tesseract "Wajcman_Judy_Feminism_Confronts_Technology-${pg}_1.png" stdout -psm 1 \
+	  > "page-${num}.txt" 2> "page-${num}.err"
+	printf '%s\t%s\n' "$pg" "$?"
+done
+  # this in particular takes quite a long time.
+  # In theory it could be parallelized, but... enh.
+
