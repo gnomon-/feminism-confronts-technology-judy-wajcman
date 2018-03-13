@@ -1,0 +1,25 @@
+#!/bin/bash
+
+for f in *.txt ; do
+	printf '%s\t%s\n' "$f" "$(aspell list < "$f" | wc -l)"
+done | awk -v c="$(tput cols)" '
+	function rep(n,s,	i,ret) {
+		for (i=0; i<n; i++) {
+			ret=ret (s ? s : "*")
+		}
+		return ret
+	}
+	{max=(($2>max)?$2:max);lines[NR]=$0}
+	END {
+		scale_factor = (max+20)/c
+		for (i=1; i<=NR; i++) {
+			$0=lines[i]
+			printf("%s\t%s\n", $1, rep($2/scale_factor))
+		}
+	}'
+  # print out a quick histogram of the number of spelling
+  # errors per text file, normalized to the width of the
+  # interactive terminal via the $COLUMNS variable
+  #
+  # this might be ever so slightly useful for choosing
+  # which files to manually review and correct first
